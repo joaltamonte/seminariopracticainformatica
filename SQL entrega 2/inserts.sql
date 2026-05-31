@@ -6,19 +6,19 @@ INSERT INTO usuarios (
 					nombre, 
 					apellido)
 VALUES ('ggarcia', 
-		'scrypt:32768:8:1$cQJjLDdOXelZ3T1g$e2ed94678844c90773dc4c49f69fc88fadc2757038c2fbf50006595847be5f55e688d507b3adf713261e3e800262a7cb8f953e705c7a82065242e32186782569', 
+		'123123', 
         'vendedor', 
         'Gladis',
         'Garcia'
 ),
 ('jaltamonte', 
-		'scrypt:32768:8:1$cQJjLDdOXelZ3T1g$e2ed94678844c90773dc4c49f69fc88fadc2757038c2fbf50006595847be5f55e688d507b3adf713261e3e800262a7cb8f953e705c7a82065242e32186782569', 
+		'123123', 
         'administrador', 
         'José',
         'Altamonte'
 ),
 ('pdiaz', 
-		'scrypt:32768:8:1$cQJjLDdOXelZ3T1g$e2ed94678844c90773dc4c49f69fc88fadc2757038c2fbf50006595847be5f55e688d507b3adf713261e3e800262a7cb8f953e705c7a82065242e32186782569', 
+		'123123', 
         'duenio', 
         'Patricia',
         'Diaz'
